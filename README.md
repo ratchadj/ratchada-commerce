@@ -1,5 +1,4 @@
-# Project Title
-Ratchada Commerce
+# Ratchada Commerce
 [Demo](https://ratchada-commerce.web.app/)
 
 ## Description
